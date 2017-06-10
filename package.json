@@ -1,0 +1,34 @@
+{
+  "name": "html-form-elements",
+  "version": "1.0.0",
+  "description": "A tiny demo project for styling html forms with latest material design",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "go": "gulp go"
+  },
+  "keywords": [
+    "html5",
+    "forms",
+    "material",
+    "design",
+    "sass",
+    "grunt"
+  ],
+  "author": "gkjha009",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "browser-sync": "^2.18.12",
+    "browserify-gulp": "^1.0.0",
+    "clean": "^4.0.2",
+    "concat": "^1.0.3",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-clean": "^0.3.2",
+    "gulp-ruby-sass": "^2.1.1",
+    "gulp-sass-lint": "^1.3.2",
+    "gulp-sourcemaps": "^2.6.0",
+    "node-sass": "^4.5.3"
+  }
+}
